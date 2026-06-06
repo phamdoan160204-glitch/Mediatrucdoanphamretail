@@ -1,0 +1,6 @@
+{
+  "name": "AI Fashion Content Workspace",
+  "description": "Hệ thống quản lý kịch bản, đề xuất POV xu hướng Douyin, dịch tiếng Trung và lên lịch captions cực cháy cho Trucdoanpham Retail Fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
